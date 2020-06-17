@@ -1,0 +1,1 @@
+# This repo is used to perform some EDA and visualizations on hotel bookings.
