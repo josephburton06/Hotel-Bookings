@@ -1,1 +1,2 @@
 # This repo is used to perform some EDA and visualizations on hotel bookings.
+# Starting off, the work completed in this repo tends to be spread across multiple days with short sessions for each day.  During this time, I am also reading new methods/functions that I would like to experiment with.  The final deliverable is planned to be a cleaner Jupyter Notebook with findings and recommendations.
