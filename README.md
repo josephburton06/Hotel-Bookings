@@ -1,2 +1,2 @@
 # This repo is used to perform some EDA and visualizations on hotel bookings.
-# Starting off, the work completed in this repo tends to be spread across multiple days with short sessions for each day.  During this time, I am also reading new methods/functions that I would like to experiment with.  The final deliverable is planned to be a cleaner Jupyter Notebook with findings and recommendations.
+# In this dataset, each row represents a reservation.  Some reservations were cancelled, some weren't. There are two different hotels in this data.  Applying domain knowledges, a new KPI of 'Occupancy Rate' was created in order to compare the results for the hotels.  Some of the data was also cleaned based on logic observed.
